@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StarWarsCodex/static/css/main.d7ad8e64.chunk.css",
+    "main.js": "/StarWarsCodex/static/js/main.93de2d87.chunk.js",
+    "main.js.map": "/StarWarsCodex/static/js/main.93de2d87.chunk.js.map",
+    "runtime-main.js": "/StarWarsCodex/static/js/runtime-main.b434907e.js",
+    "runtime-main.js.map": "/StarWarsCodex/static/js/runtime-main.b434907e.js.map",
+    "static/js/2.a22a98d0.chunk.js": "/StarWarsCodex/static/js/2.a22a98d0.chunk.js",
+    "static/js/2.a22a98d0.chunk.js.map": "/StarWarsCodex/static/js/2.a22a98d0.chunk.js.map",
+    "static/js/3.f4e0870a.chunk.js": "/StarWarsCodex/static/js/3.f4e0870a.chunk.js",
+    "static/js/3.f4e0870a.chunk.js.map": "/StarWarsCodex/static/js/3.f4e0870a.chunk.js.map",
+    "index.html": "/StarWarsCodex/index.html",
+    "static/css/main.d7ad8e64.chunk.css.map": "/StarWarsCodex/static/css/main.d7ad8e64.chunk.css.map",
+    "static/js/2.a22a98d0.chunk.js.LICENSE.txt": "/StarWarsCodex/static/js/2.a22a98d0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/StarWarsCodex/static/media/background.f98f4d13.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b434907e.js",
+    "static/js/2.a22a98d0.chunk.js",
+    "static/css/main.d7ad8e64.chunk.css",
+    "static/js/main.93de2d87.chunk.js"
+  ]
+}
